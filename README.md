@@ -10,7 +10,7 @@ The searched user is stored in local state, click the like button to add user to
 First, clone the repo
 
 ```
-$ git remote add origin https://github.com/Yassir4/react-github-api.git
+$ git remote add origin https://github.com/sufyansalim/react-redux-github-api.git
 ```
 
 Next, load all the dependencies  
