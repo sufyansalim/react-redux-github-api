@@ -1,0 +1,2 @@
+export const ADD_USER_CARD ='ADD_USER_CARD';
+export const REMOVE_USER_CARD ='REMOVE_USER_CARD';
